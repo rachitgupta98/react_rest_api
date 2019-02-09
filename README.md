@@ -1,4 +1,4 @@
-##Build the REST-API using REACT, EXPRESS, Mongoose and also used GeoJSON
+## Build the REST-API using REACT, EXPRESS, Mongoose and also used GeoJSON
 
 GeoJSON is an open standard format designed for representing simple geographical features, along with their non-spatial attributes. It is based on JSON, the JavaScript Object Notation.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
